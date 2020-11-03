@@ -1,11 +1,11 @@
 # kaggle-Mechanisms-of-ActionMoA-Prediction
 Mechanisms of Action (MoA) Predictionコンペのリポジトリ
 
-###### 20201103  
-参考にしたNotebooks  
+#### 20201103  
+**参考にしたNotebooks**  
 https://www.kaggle.com/mannsingh/simple-xgboost-model-for-beginners  
 
-特徴  
+**特徴**  
 *sig_id               サンプルのユニークなID  
 *g-接頭辞を持つ特徴量   遺伝子発現特徴量 772個（g-0からg-771まで）  
 *c-接頭辞を持つ特徴量   細胞生存率の特徴量 100個（c-0からg-99まで）  
