@@ -4,6 +4,7 @@ Mechanisms of Action (MoA) Predictionコンペのリポジトリ
 #### 20201103  
 **参考にしたNotebooks**  
 https://www.kaggle.com/mannsingh/simple-xgboost-model-for-beginners  
+Public Score:0.02098  
 
 **特徴**  
 *sig_id               サンプルのユニークなID  
